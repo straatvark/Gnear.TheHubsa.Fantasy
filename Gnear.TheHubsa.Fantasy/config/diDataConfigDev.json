@@ -1,0 +1,11 @@
+{
+    "currentStageUrl": "devdata/current.json",
+    "routeUrl": "devdata/route.json",
+    "ridersUrl": "devdata/rider.json",
+    "riderClassificationUrl": "devdata/riderclassification.json",
+    "raceStatusUrl": "devdata/status.json",
+    "raceDataUrl": "devdata/race.json",
+    "stagesUrl":  "config/stages2.json",
+    "theHubTeamsUrl":  "devdata/theHubTeams2.json",
+    "raceRefreshInterval":  2000
+}

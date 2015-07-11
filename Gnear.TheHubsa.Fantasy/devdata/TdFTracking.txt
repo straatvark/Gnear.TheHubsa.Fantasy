@@ -1,0 +1,9 @@
+
+http://letour-livetracking-api.dimensiondata.com/race/stages/current
+http://letour-livetracking-api.dimensiondata.com/race/stages/16/route
+http://letour-livetracking-api.dimensiondata.com/rider
+http://letour-livetracking-api.dimensiondata.com/race/stages/15/riderclassification
+http://letour-livetracking-api.dimensiondata.com/race/status
+http://letour-livetracking-api.dimensiondata.com/race/
+
+

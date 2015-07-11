@@ -1,0 +1,26 @@
+[
+    {
+        "StageId": 15,
+        "PreviousStageId": 14,
+        "GeneralClassificationTimeAllStages": "03:01:50",
+        "YoungClassificationTimeAllStages":  "04:01:55"
+    },
+    {
+        "StageId": 16,
+        "PreviousStageId": 15,
+        "GeneralClassificationTimeAllStages": "04:01:50",
+        "YoungClassificationTimeAllStages":  "05:01:55"
+    },
+    {
+        "StageId": 17,
+        "PreviousStageId": 16,
+        "GeneralClassificationTimeAllStages": "04:01:50",
+        "YoungClassificationTimeAllStages":  "05:01:55"
+    },
+    {
+        "StageId": 18,
+        "PreviousStageId": 17,
+        "GeneralClassificationTimeAllStages": "04:01:50",
+        "YoungClassificationTimeAllStages":  "05:01:55"
+    }
+]

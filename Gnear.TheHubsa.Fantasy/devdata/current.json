@@ -1,0 +1,12 @@
+{
+    "StageId": 16,
+    "PreviousStageId": 15,
+    "StageDate": "2015-07-09T00:00:00",
+    "StageStartTime": "10:56:00",
+    "StageNumber": "06",
+    "DepartingTown": "Abbeville",
+    "ArrivingTown": "Le Havre",
+    "TotalDistance": 191.5,
+    "StageRouteUri": null,
+    "RaceUri": null
+}

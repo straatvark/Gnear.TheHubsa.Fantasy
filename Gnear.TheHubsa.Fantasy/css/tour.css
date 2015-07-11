@@ -1,0 +1,36 @@
+﻿body{
+    /*background-color:grey;*/
+    background: url(../Images/background50.jpg) no-repeat top center;
+}
+
+
+
+
+.classification {
+    width: inherit;
+    position:fixed;
+    padding:3px;
+}
+
+.general-classification {
+    background-color:yellow;
+}
+
+.young-classification {
+    background-color:white;
+}
+
+.sprint-classification {
+    background-color:limegreen;
+}
+
+.stage-classification {
+background-image: linear-gradient(90deg, rgba(200, 0, 0, 0.5) 50%, transparent 50%), linear-gradient(rgba(200, 0, 0, 0.5) 50%, transparent 50%); background-size: 50px 50px; background-color: white;
+
+}
+
+.mountain-classification {
+  margin: 0 auto;
+  background-image: radial-gradient(circle, #FFD6D6, #FFD6D6 10px, white 10px, white);
+  background-size: 50px 50px
+}

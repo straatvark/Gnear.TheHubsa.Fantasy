@@ -1,0 +1,34 @@
+{
+    "Teams": [
+        {
+            "Name": "Zatopek's team",
+            "Owner": "Manager 1",
+            "Riders" :  {        
+                "Rider1" :  {"Id": 13},
+                "Rider2" :  {"Id": 71},  
+                "Rider3" :  {"Id": 105}, 
+                "Rider4" :  {"Id": 167}, 
+                "Rider5" :  {"Id": 81},  
+                "Rider6" :  {"Id": 112}, 
+                "Rider7" :  {"Id": 111}, 
+                "Rider8" :  {"Id": 51},  
+                "Rider9" :  {"Id": 151}  
+            }                    
+        },                       
+        {                        
+            "Name": "Leader's team",
+            "Owner": "Leader",
+            "Riders" :  {        
+                "Rider1" :  {"Id": 15},  
+                "Rider2" :  {"Id": 74},  
+                "Rider3" :  {"Id": 11},  
+                "Rider4" :  {"Id": 163}, 
+                "Rider5" :  {"Id": 85},  
+                "Rider6" :  {"Id": 117}, 
+                "Rider7" :  {"Id": 112}, 
+                "Rider8" :  {"Id": 52},  
+                "Rider9" :  {"Id": 154}  
+            }                    
+        } 
+    ]
+}

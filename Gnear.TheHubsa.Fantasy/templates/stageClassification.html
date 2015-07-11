@@ -1,0 +1,40 @@
+﻿
+<div ng-app="tdfApp" ng-controller="stageClassificationCtrl" class="classification stage-classification">
+    <h2>Stage Classification</h2>
+    <!--Leader First Name: <input type="text" ng-model="firstName"><br>
+    Leader Last Name: <input type="text" ng-model="lastName"><br>
+    <br>
+    Leader Full Name: {{firstName + " " + lastName}}-->
+    
+    
+    
+    <!--<input type="text" ng-model="searchTodos">-->
+    <table class="table table-striped table-bordered">
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>Team</th>
+                <!--<th>Description</th>
+                <th>Done?</th>
+                <th>Date</th>-->
+            </tr>
+        </thead>
+        <tbody>
+            <tr ng-repeat="team in stageTeams">
+                <td>{{$index + 1}}</td>
+                <td>{{team.Name}}</td>
+                <!--<td>{{todo.description}}</td>
+                <td>{{todo.done}}</td>
+                <td>{{todo.date | date}}</td>-->
+            </tr>
+
+        </tbody>
+
+    </table>
+    
+    
+    
+    
+
+</div>
+
