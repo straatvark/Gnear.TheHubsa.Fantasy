@@ -8,8 +8,6 @@
         theHubTeamsUrl: '',
         raceRefreshInterval: 2000, //default 2 seconds, updated from config file
         theHubTeams: null,
-        stageTeams: null,
-        //potential for GC, points etc teams
 
         // broadcast messages
         broadcast_Initialized: broadcast_Initialized,
@@ -64,10 +62,6 @@
         angular.forEach(theHubFantasyService.theHubTeams.Teams, function (team) {
             theHubFantasyService.recalculateTeamStagePosition(team);
         });
-
-        var orderedTeams = $filter('orderBy')(theHubFantasyService.theHubTeams.Teams, "stagePosition", false);
-        theHubFantasyService.stageTeams = orderedTeams;
-
         theHubFantasyService.broadcast_recalculated();
     }
 
@@ -130,6 +124,7 @@
         //return riderTime;
     }
 
+    // Initialize the service (this only reached once, the first time the service are accessed.)
     theHubFantasyService.initialize();
     return theHubFantasyService;
 });

@@ -6,8 +6,8 @@
     "riderClassificationUrl": "http://letour-livetracking-api.dimensiondata.com/race/stages/16/riderclassification",
     "raceStatusUrl": "http://letour-livetracking-api.dimensiondata.com/race/status",
     "raceDataUrl": "http://letour-livetracking-api.dimensiondata.com/race/",
-    "stagesUrl":  "config/stages3.json",
-    "theHubTeamsUrl":  "devdata/theHubTeams2.json",
+    "stagesUrl":  "config/stages.json",
+    "theHubTeamsUrl":  "devdata/theHubTeams.json",
     "raceRefreshInterval":  2000
 }
 

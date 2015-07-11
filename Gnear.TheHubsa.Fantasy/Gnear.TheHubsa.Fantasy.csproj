@@ -66,10 +66,10 @@
     <Content Include="devdata\riderclassification.json" />
     <Content Include="devdata\route.json" />
     <Content Include="devdata\status.json" />
-    <Content Include="devdata\theHubTeams2.json" />
+    <Content Include="devdata\theHubTeams.json" />
     <Content Include="config\diDataConfigOnline.json" />
     <Content Include="config\diDataConfigDev.json" />
-    <Content Include="config\stages3.json" />
+    <Content Include="config\stages.json" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -82,6 +82,7 @@
     <Content Include="default.html" />
     <Content Include="images\background.jpg" />
     <Content Include="images\background30.jpg" />
+    <Content Include="images\background50.jpg" />
     <Content Include="scripts\diDataService.js" />
     <Content Include="scripts\stageClassificationCtrl.js" />
     <Content Include="scripts\theHubFantasyService.js" />

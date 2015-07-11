@@ -5,7 +5,7 @@
     "riderClassificationUrl": "devdata/riderclassification.json",
     "raceStatusUrl": "devdata/status.json",
     "raceDataUrl": "devdata/race.json",
-    "stagesUrl":  "config/stages2.json",
-    "theHubTeamsUrl":  "devdata/theHubTeams2.json",
+    "stagesUrl":  "config/stages.json",
+    "theHubTeamsUrl":  "devdata/theHubTeams.json",
     "raceRefreshInterval":  2000
 }
